@@ -55,3 +55,7 @@ review the [Contributing Guide](CONTRIBUTING.md).
 Licensed under Apache License,
 Version 2.0 – see [LICENSE](LICENSE) in this repo
 or [apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+---
+
+Try [YumCut](https://yumcut.com)! This is an AI video generator that turns a single prompt into a ready-to-post vertical short video in minutes. It creates the script, images, voice-over, subtitles, and edits everything into a final clip automatically. It’s built for fast testing and making lots of variations without spending hours in an editor.
